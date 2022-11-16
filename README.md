@@ -11,13 +11,13 @@ Balíček poprípade balíčky sú rozdelené podľa zamerania ako all(všetky),
 
 ## Náhľad Picons
 
-[ALL](https://github.com/GrgoPitic/piconstv/tree/master/all)
+[ALL](https://github.com/GrgoPitic/piconstv/tree/main/all)
 
-[SLOVENSKÉ](https://github.com/GrgoPitic/piconstv/tree/master/slovenske)
+[SLOVENSKÉ](https://github.com/GrgoPitic/piconstv/tree/main/slovenske)
 
-[ČESKÉ](https://github.com/GrgoPitic/piconstv/tree/master/ceske)
+[ČESKÉ](https://github.com/GrgoPitic/piconstv/tree/main/ceske)
 
-[FILMOVÉ](https://github.com/GrgoPitic/piconstv/tree/master/filmove)
+[FILMOVÉ](https://github.com/GrgoPitic/piconstv/tree/main/filmove)
 
 <hr>
 
