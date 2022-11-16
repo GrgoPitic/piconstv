@@ -13,7 +13,9 @@ Balíček poprípade balíčky sú rozdelené podľa zamerania ako all(všetky),
  
 [All](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/GrgoPitic/piconstv/tree/main/all) (.zip)
 
-[Slovenské](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/GrgoPitic/piconstv/tree/master/slovenske) (.zip)
+[Slovenské](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/GrgoPitic/piconstv/tree/master/main/slovenske) (.zip)
+
+[České](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/GrgoPitic/piconstv/tree/master/main/ceske) (.zip)
 
 <hr>
 
@@ -21,14 +23,16 @@ Celá zložka so všetkými ikonamy [TU](https://github.com/GrgoPitic/piconstv/t
 
 <hr>
 
-# Príklad použitia v M3U playliste, ktorý máte:
+# Príklad zápisu v M3U playliste, ktorý máte:
 
 ```markdown
 #EXTINF:-1 tvg-logo="https://grgopitic.github.io/piconstv/all/amc.png", AMC
 
 alebo
 
-#EXTINF:-1 tvg-logo="https://grgopitic.github.io/piconstv/slovenske/markiza.png", Markiza
+#EXTINF:-1 tvg-logo="https://grgopitic.github.io/piconstv/ceske/ct1.png", ČT1
 
-- prípadne si viete ikony stiahnuť a používať interne na svojom úložisku
 ```
+- prípadne si viete ikony stiahnuť a používať interne na svojom úložisku či interne alebo vzdialene na servery
+
+Ak by ste mali otázky alebo nejaké logá chýbali neváhajte sa my ozvať.
