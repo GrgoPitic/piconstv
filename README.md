@@ -45,6 +45,6 @@ alebo
 ```
 - prípadne si viete ikony stiahnuť a používať interne na svojom úložisku alebo vzdialene na servery
 
-#### Týmto ďakujem MarhyCZ za vytvorenie pôvodných ikon, ktoré sú asi najlepšie, ktoré sú dostupné a hlavne vyzerajú skvelo
+<hr>
 
-Ak by ste mali otázky alebo nejaké logá chýbali neváhajte sa my ozvať.
+#### Týmto ďakujem MarhyCZ za vytvorenie pôvodných ikon, ktoré sú asi najlepšie, ktoré sú dostupné a hlavne vyzerajú skvelo
