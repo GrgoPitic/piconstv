@@ -9,13 +9,19 @@ Balíček poprípade balíčky sú rozdelené podľa zamerania ako all(všetky),
 
 <hr>
 
+# Náhľad Picons
+
+Náhľad ALL [TU](https://github.com/GrgoPitic/piconstv/tree/master/all)
+
+Náľad Slovenské [TU](https://github.com/GrgoPitic/piconstv/tree/master/slovenske)
+
+<hr>
+
 # Download Picons
  
 [All](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/GrgoPitic/piconstv/tree/main/all) (.zip) 
-Zložka na pozretie ALL [TU](https://github.com/GrgoPitic/piconstv/tree/master/all)
 
 [Slovenské](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/GrgoPitic/piconstv/tree/main/slovenske) (.zip) 
-Zložka na pozretie SLOVENSKÉ [TU](https://github.com/GrgoPitic/piconstv/tree/master/slovenske)
 
 [České](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/GrgoPitic/piconstv/tree/main/ceske) (.zip)
 
