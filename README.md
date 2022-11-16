@@ -24,6 +24,11 @@ Celá zložka so všetkými ikonamy [TU](https://github.com/GrgoPitic/piconstv/t
 # Príklad použitia v M3U playliste, ktorý máte:
 
 ```markdown
-#EXTINF:-1 tvg-logo="https://grgopitic.github.io/piconstv/all/hbo.png", HBO HD
+#EXTINF:-1 tvg-logo="https://grgopitic.github.io/piconstv/all/amc.png", AMC
+
+alebo
+
+#EXTINF:-1 tvg-logo="https://grgopitic.github.io/piconstv/slovenske/markiza.png", Markiza
+
 - prípadne si viete ikony stiahnuť a používať interne na svojom úložisku
 ```
