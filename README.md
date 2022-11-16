@@ -1,4 +1,4 @@
-# Picons TV
+## Picons TV
 Logá pre TV a Rádio stanice
 
 
@@ -9,7 +9,7 @@ Balíček poprípade balíčky sú rozdelené podľa zamerania ako all(všetky),
 
 <hr>
 
-# Náhľad Picons
+## Náhľad Picons
 
 [ALL](https://github.com/GrgoPitic/piconstv/tree/master/all)
 
@@ -21,7 +21,7 @@ Balíček poprípade balíčky sú rozdelené podľa zamerania ako all(všetky),
 
 <hr>
 
-# Download Picons
+## Download Picons
  
 [All](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/GrgoPitic/piconstv/tree/main/all) (.zip) 
 
@@ -33,7 +33,7 @@ Balíček poprípade balíčky sú rozdelené podľa zamerania ako all(všetky),
 
 <hr>
 
-# Príklad zápisu v M3U playliste, ktorý máte:
+## Príklad zápisu v M3U playliste, ktorý máte:
 
 ```markdown
 #EXTINF:-1 tvg-logo="https://grgopitic.github.io/piconstv/all/amc.png", AMC
@@ -44,5 +44,7 @@ alebo
 
 ```
 - prípadne si viete ikony stiahnuť a používať interne na svojom úložisku alebo vzdialene na servery
+
+#### Týmto ďakujem MarhyCZ za vytvorenie pôvodných ikon, ktoré sú asi najlepšie, ktoré sú dostupné a hlavne vyzerajú skvelo
 
 Ak by ste mali otázky alebo nejaké logá chýbali neváhajte sa my ozvať.
