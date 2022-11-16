@@ -11,13 +11,13 @@ Balíček poprípade balíčky sú rozdelené podľa zamerania ako all(všetky),
 
 # Náhľad Picons
 
-Náhľad [ALL](https://github.com/GrgoPitic/piconstv/tree/master/all)
+[ALL](https://github.com/GrgoPitic/piconstv/tree/master/all)
 
-Náhľad [SLOVENSKÉ](https://github.com/GrgoPitic/piconstv/tree/master/slovenske)
+[SLOVENSKÉ](https://github.com/GrgoPitic/piconstv/tree/master/slovenske)
 
-Náhľad [ČESKÉ](https://github.com/GrgoPitic/piconstv/tree/master/ceske)
+[ČESKÉ](https://github.com/GrgoPitic/piconstv/tree/master/ceske)
 
-Náhľad [FILMOVÉ](https://github.com/GrgoPitic/piconstv/tree/master/filmove)
+[FILMOVÉ](https://github.com/GrgoPitic/piconstv/tree/master/filmove)
 
 <hr>
 
@@ -43,6 +43,6 @@ alebo
 #EXTINF:-1 tvg-logo="https://grgopitic.github.io/piconstv/ceske/ct1.png", ČT1
 
 ```
-- prípadne si viete ikony stiahnuť a používať interne na svojom úložisku či interne alebo vzdialene na servery
+- prípadne si viete ikony stiahnuť a používať interne na svojom úložisku alebo vzdialene na servery
 
 Ak by ste mali otázky alebo nejaké logá chýbali neváhajte sa my ozvať.
