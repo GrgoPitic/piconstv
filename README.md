@@ -47,4 +47,4 @@ alebo
 
 <hr>
 
-#### Týmto ďakujem MarhyCZ za vytvorenie pôvodných ikon, ktoré sú asi najlepšie, ktoré sú dostupné a hlavne vyzerajú skvelo
+#### Týmto ďakujem [MarhyCZ](https://github.com/MarhyCZ/picons) za vytvorenie pôvodných ikon, ktoré sú asi najlepšie, ktoré sú dostupné a hlavne vyzerajú skvelo
