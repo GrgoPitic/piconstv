@@ -19,6 +19,8 @@ Balíček poprípade balíčky sú rozdelené podľa zamerania ako all(všetky),
 
 [FILMOVÉ](https://github.com/GrgoPitic/piconstv/tree/main/filmove)
 
+[MAĎARSKÉ](https://github.com/GrgoPitic/piconstv/tree/main/madarske)
+
 <hr>
 
 ## Download Picons
@@ -30,6 +32,8 @@ Balíček poprípade balíčky sú rozdelené podľa zamerania ako all(všetky),
 [České](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/GrgoPitic/piconstv/tree/main/ceske) (.zip)
 
 [Filmové](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/GrgoPitic/piconstv/tree/main/filmove) (.zip)
+
+[Maďarské](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/GrgoPitic/piconstv/tree/main/madarske) (.zip)
 
 <hr>
 
